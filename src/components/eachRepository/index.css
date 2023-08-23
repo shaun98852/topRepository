@@ -1,0 +1,70 @@
+.eachListItem {
+  border-style: solid;
+  border-color: #323a3f;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  border-width: 1px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+.leftBox {
+  display: flex;
+  align-items: center;
+  width: 70%;
+}
+
+.rightSection {
+}
+
+.repoName {
+}
+.description {
+}
+
+.bottomSection {
+}
+
+.avatar {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  margin-right: 4%;
+}
+.rightArrow {
+  font-size: 60px;
+}
+
+.stars {
+  border-radius: 20px;
+  padding: 10px;
+  border-style: solid;
+  border-width: 1px;
+  width: 80px;
+}
+.background {
+}
+
+.background {
+}
+
+.background {
+}
+.background {
+}
+
+.background {
+}
+
+.background {
+}
+.background {
+}
+
+.background {
+}
+
+.background {
+}

@@ -1,0 +1,65 @@
+.background {
+}
+
+.topSection {
+  background-color: #323a3f;
+  height: 70px;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 1%;
+  padding-right: 1%;
+  align-items: center;
+}
+
+.pageNumberBox {
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  font-size: 40px;
+  color: #ffffff;
+}
+
+.icon1 {
+  font-size: 30px;
+  color: #ffffff;
+  margin-right: 20px;
+}
+
+.icon2 {
+  font-size: 100px;
+}
+.top {
+  font-family: roboto;
+}
+
+.topRepository {
+  font-family: roboto;
+}
+
+.designs {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+.topDesign {
+  display: flex;
+  align-items: flex-end;
+
+  height: 120px;
+  padding-left: 1%;
+}
+
+.ulList {
+  list-style-type: none;
+  font-family: roboto;
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+.pageNumber {
+  margin: 10px;
+}
